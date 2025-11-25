@@ -1,0 +1,47 @@
+{
+  "S98582": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Thomas Kehl, Am Brink 8, 18209 Bad Doberan, Deutschland",
+    "receiver": "Leon Schwarm, Münchener str. 14, 10779 Berlin, Deutschland",
+    "price": "3.100 €",
+    "description": "Hersteller: Kawasaki<br>Typ: Ninja ZX-6R<br>Fahrgestelnummer: JKAZX4R179A005481<br>Erstzulassung: 06/2009<br>KM laut Vorbesitzer: 48500 km<br>Leistung: 94 kW (128 PS)<br>Hubraum: 599 cm³<br>Farbe: Grün<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Leon Schwarm<br>Münchener str. 14<br>10779 Berlin<br>Deutschland<br>Telefon: +4915733685848",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "25.11.2025",
+    "deliveryDate": "28.11.2025",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
